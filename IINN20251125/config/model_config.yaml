@@ -1,0 +1,6 @@
+RFDNM:
+  maker: RDNM
+  train_type_fn: DNM
+  layers_num: 10
+  flexible_synapse: True
+  flexible_soma: False

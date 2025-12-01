@@ -1,0 +1,5 @@
+D1_Max_6:
+  train_data_names: ['D1']
+  features: ['Present_Tmax', 'Present_Tmin', 'LDAPS_RHmin', 'LDAPS_RHmax', 'LDAPS_Tmax_lapse', 'LDAPS_Tmin_lapse', 'LDAPS_WS', 'LDAPS_LH', 'LDAPS_CC1', 'LDAPS_CC2', 'LDAPS_CC3', 'LDAPS_CC4', 'DEM', 'Slope', 'Next_Tmax']
+  output_size: 1
+  step_num: 6
